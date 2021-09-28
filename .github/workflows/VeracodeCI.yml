@@ -41,7 +41,7 @@ jobs:
       
       - uses: actions/checkout@v2
         with:
-        repository: ''
+          repository: ''
 
       - uses: papeloto/action-zip@v1
         with:
